@@ -5,6 +5,7 @@ export default defineConfig({
   title: "呆呆鹅",
   description: "A VitePress Site",
   lastUpdated: true,
+  base: '/vitepress/',
   themeConfig: {
     logo: '/icon.png',
     // https://vitepress.dev/reference/default-theme-config
